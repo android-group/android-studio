@@ -1,1 +1,1 @@
-# android-studio
+Репозиторий для сайта android-studio
